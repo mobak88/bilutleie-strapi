@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "hentesteds",
+  "info": {
+    "singularName": "hentested",
+    "pluralName": "hentesteds",
+    "displayName": "Hentested",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sted": {
+      "type": "string"
+    }
+  }
+}

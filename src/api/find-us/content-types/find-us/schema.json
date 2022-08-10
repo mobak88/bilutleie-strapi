@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "find_uses",
+  "info": {
+    "singularName": "find-us",
+    "pluralName": "find-uses",
+    "displayName": "Find us",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "second": {
+      "type": "richtext"
+    }
+  }
+}
