@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cars_radiobuttons",
+  "info": {
+    "singularName": "cars-radiobutton",
+    "pluralName": "cars-radiobuttons",
+    "displayName": "Cars radiobutton"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "radiobutton": {
+      "type": "string"
+    }
+  }
+}
