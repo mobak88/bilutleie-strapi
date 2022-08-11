@@ -20,6 +20,12 @@
     },
     "second": {
       "type": "richtext"
+    },
+    "lat": {
+      "type": "float"
+    },
+    "lon": {
+      "type": "float"
     }
   }
 }
