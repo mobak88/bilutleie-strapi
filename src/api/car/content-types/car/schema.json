@@ -28,6 +28,15 @@
     },
     "price": {
       "type": "string"
+    },
+    "info": {
+      "type": "richtext"
+    },
+    "kmPerDay": {
+      "type": "integer"
+    },
+    "extraKm": {
+      "type": "string"
     }
   }
 }
