@@ -1,11 +1,10 @@
 {
   "kind": "singleType",
-  "collectionName": "phone_numbers",
+  "collectionName": "phones",
   "info": {
-    "singularName": "phone-number",
-    "pluralName": "phone-numbers",
-    "displayName": "Phone-number",
-    "description": ""
+    "singularName": "phone",
+    "pluralName": "phones",
+    "displayName": "phone"
   },
   "options": {
     "draftAndPublish": true
