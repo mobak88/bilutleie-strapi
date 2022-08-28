@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "order_car_checkboxes",
+  "info": {
+    "singularName": "order-car-checkbox",
+    "pluralName": "order-car-checkboxes",
+    "displayName": "Order car checkbox",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "price": {
+      "type": "integer"
+    }
+  }
+}
