@@ -12,17 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "image": {
-      "type": "media",
-      "multiple": true,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
     "brand": {
       "type": "string"
     },
@@ -44,7 +33,7 @@
       "target": "api::category.category",
       "inversedBy": "cars"
     },
-    "imageLink": {
+    "image": {
       "type": "string"
     }
   }
