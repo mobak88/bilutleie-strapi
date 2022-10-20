@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "daily_extras",
+  "info": {
+    "singularName": "daily-extra",
+    "pluralName": "daily-extras",
+    "displayName": "daily-extra"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "price": {
+      "type": "decimal"
+    }
+  }
+}
